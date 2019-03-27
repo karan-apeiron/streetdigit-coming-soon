@@ -1,0 +1,15 @@
+body {
+    color: black;
+}
+
+.header-image {
+    /* background-image: url("http://orig14.deviantart.net/7584/f/2015/181/2/7/flat_mountains_landscape_by_ggiuliafilippini-d8zdbco.jpg"); */
+    background-image: url('./images/babatunde-olajide-1348047-unsplash.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-color: #999;
+    height: 100vh;
+
+}
